@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1234,
+        "nombres": "asdfgh",
+        "apellidos": "asd",
+        "especialidad": "asas",
+        "rutas_asignadas": []
+    },
+    {
+        "id": 2345678,
+        "nombres": "sdf",
+        "apellidos": "sefg",
+        "especialidad": "2345",
+        "rutas_asignadas": []
+    },
+    {
+        "id": 23,
+        "nombres": "wsd",
+        "apellidos": "s ew",
+        "especialidad": "d",
+        "rutas_asignadas": []
+    },
+    {
+        "id": 64655,
+        "nombres": "hgfgfu",
+        "apellidos": "jygyg",
+        "especialidad": "dfgh",
+        "rutas_asignadas": []
+    },
+    {
+        "id": 123,
+        "nombres": "123",
+        "apellidos": "123",
+        "especialidad": "123",
+        "rutas_asignadas": []
+    },
+    {
+        "id": 123,
+        "nombres": "123",
+        "apellidos": "123",
+        "especialidad": "123456",
+        "rutas_asignadas": []
+    },
+    {
+        "id": 11111,
+        "nombres": "sdf",
+        "apellidos": "wdf",
+        "especialidad": "wdf",
+        "rutas_asignadas": []
+    },
+    {
+        "id": 233243,
+        "nombres": "jose",
+        "apellidos": "ttr f",
+        "especialidad": "java",
+        "rutas_asignadas": []
+    }
+]

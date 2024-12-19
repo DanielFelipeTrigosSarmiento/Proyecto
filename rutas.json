@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "eq",
+        "modulo": "qwe",
+        "capacidad_max": 123,
+        "sgdb_principal": "dq",
+        "sgdb_alternativo": "wqe",
+        "campers_asignados": []
+    },
+    {
+        "nombre": "node",
+        "modulo": "sias",
+        "capacidad_max": 33,
+        "sgdb_principal": "sisas",
+        "sgdb_alternativo": "sisas",
+        "campers_asignados": []
+    },
+    {
+        "nombre": "2",
+        "modulo": "2",
+        "capacidad_max": 2,
+        "sgdb_principal": "2",
+        "sgdb_alternativo": "2",
+        "campers_asignados": []
+    }
+]

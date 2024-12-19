@@ -1,0 +1,14 @@
+[
+    {
+        "id": 123,
+        "nombres": "sad",
+        "apellidos": "asd",
+        "clave_acceso": 1205
+    },
+    {
+        "id": 1234,
+        "nombres": "sdfsadf",
+        "apellidos": "sdfdw",
+        "clave_acceso": 1205
+    }
+]

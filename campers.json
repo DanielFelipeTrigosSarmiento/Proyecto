@@ -1,0 +1,130 @@
+[
+    {
+        "id": 123,
+        "nombres": "df",
+        "apellidos": "123",
+        "direccion": "123",
+        "acudiente": "12345",
+        "telefonos": 123,
+        "estado": "s",
+        "riesgo": "s"
+    },
+    {
+        "id": 123456789,
+        "nombres": "wdg",
+        "apellidos": "sd",
+        "direccion": "sg",
+        "acudiente": "dr",
+        "telefonos": 45346,
+        "estado": "sdgsdg",
+        "riesgo": "sgdff"
+    },
+    {
+        "id": 3412124,
+        "nombres": "sdgsdg",
+        "apellidos": "sdgsd",
+        "direccion": "sdg",
+        "acudiente": "df",
+        "telefonos": 234324,
+        "estado": "dfdf",
+        "riesgo": "drhf"
+    },
+    {
+        "id": 1324,
+        "nombres": "wefwe",
+        "apellidos": "we",
+        "direccion": "wwet",
+        "acudiente": "e",
+        "telefonos": 234,
+        "estado": "srg",
+        "riesgo": "erg"
+    },
+    {
+        "id": 123,
+        "nombres": "123",
+        "apellidos": "123",
+        "direccion": "123",
+        "acudiente": "123",
+        "telefonos": 123,
+        "estado": "123",
+        "riesgo": "123"
+    },
+    {
+        "id": 123,
+        "nombres": "123",
+        "apellidos": "123",
+        "direccion": "123",
+        "acudiente": "123",
+        "telefonos": 123,
+        "estado": "123",
+        "riesgo": "123"
+    },
+    {
+        "id": 123456789,
+        "nombres": "1231",
+        "apellidos": "123",
+        "direccion": "123",
+        "acudiente": "123",
+        "telefonos": 123,
+        "estado": "123",
+        "riesgo": "123"
+    },
+    {
+        "id": 33333,
+        "nombres": "wef",
+        "apellidos": "wef",
+        "direccion": "wef",
+        "acudiente": "wd",
+        "telefonos": 123,
+        "estado": "wdf",
+        "riesgo": "wef"
+    },
+    {
+        "id": 8,
+        "nombres": "8",
+        "apellidos": "8",
+        "direccion": "8",
+        "acudiente": "8",
+        "telefonos": 8,
+        "estado": "88",
+        "riesgo": "8"
+    },
+    {
+        "id": 123,
+        "nombres": "a",
+        "apellidos": "f",
+        "direccion": "cv",
+        "acudiente": "fh",
+        "telefonos": 345,
+        "estado": "gmdh",
+        "riesgo": "ghm"
+    },
+    {
+        "id": 1,
+        "nombres": "1",
+        "apellidos": "1",
+        "direccion": "1",
+        "acudiente": "1",
+        "telefonos": 1,
+        "estado": "1",
+        "riesgo": "1"
+    },
+    {
+        "id": 1,
+        "nombres": "1",
+        "apellidos": "1",
+        "direccion": "1",
+        "acudiente": "1",
+        "telefonos": 1,
+        "estado": "1"
+    },
+    {
+        "id": 1097496269,
+        "nombres": "daniel",
+        "apellidos": "trigos",
+        "direccion": "cra 18a 201a 04",
+        "acudiente": "yolanda",
+        "telefonos": 3203777816,
+        "estado": "en proceso de inscripcion"
+    }
+]
